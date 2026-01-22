@@ -23,6 +23,8 @@ but No worries — I’m back to writing. Let’s go.
 ---
 
 ## year 2026
+#### here  are  my old 6-12 hrs ai grind promises and logs lol
+
 ***********************
 
 - **[January 23–30](jan-20206_week_logs/jan_23-30.md)** — working  
