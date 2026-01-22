@@ -34,11 +34,15 @@ but No worries — I’m back to writing. Let’s go.
 ## year 2025  july month 
 ####  below are  my old 8-18 hrs grind promises and logs lol
 
+
+
+👉 🔗 [VIEW MY WEEK 4 LOVE LETTER](20025_july_week_logs/week4.md)
+
+
 👉 🔗 [VIEW MY WEEK 3 LOVE LETTER](20025_july_week_logs/week3.md)
 
 
-
-👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](20025_july_week_logs/(july)-week-2.md)
+👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](20025_july_week_logs/week2.md)
 
 
 ####  Unplanned Work on week 3

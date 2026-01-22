@@ -1,70 +1,40 @@
-### 🗓️   (july  15) 
-#### 💬 Cooding
-> coding ✅✅✅ , 12 hour ,read a lots of medium and   some paper about recomdation system (both traditional , neural network based and llm based and its advantages) and did some data preprocessing for llm based recomdation system on IMDb moviews dataset
+Here’s a simplified, clean version of your log:
 
+---
 
-| Habit                            | Status |
-|---------------------------------|--------|
-| Bath                 | [✅ ]   |
-| Water intake (4L)               | [water intake ✅]   |
-| No Stupid Content      | [✅]   |
+### 🗓️ July 15
 
+**Coding:** 12h ✅✅✅ – read Medium articles, papers on traditional, neural, and LLM-based recommendation systems; did data preprocessing on IMDb dataset
+**Habits:** Bath ✅ | Water 4L ✅ | No Stupid Content ✅
 
-### 🗓️   (july  16) 
-#### 💬 Cooding
-> coding ✅✅✅ , 8 hour , build recomdation system
+### 🗓️ July 16
 
-| Habit                            | Status |
-|---------------------------------|--------|
-| Bath                 | [✅ ]   |
-| Water intake (4L)               | [water intake ✅]   |
-| No Stupid Content      | [✅]   |
+**Coding:** 8h ✅✅✅ – built recommendation system
+**Habits:** Bath ✅ | Water 4L ✅ | No Stupid Content ✅
 
+### 🗓️ July 17
 
+**Coding:** 9h ✅✅✅ – finished LLM course (RAG, agents) via DataCamp
+**Habits:** Bath ✅ | Water 4L ✅ | No Stupid Content ❌
 
-### 🗓️   (july  17) 
-#### 💬 Cooding
-> coding ✅✅✅ , 9 hour finish deveoplemnt with llm course via data camp  (llm ,rag and some agent)
-| Habit                            | Status |
-|---------------------------------|--------|
-| Bath                 | [✅ ]   |
-| Water intake (4L)               | [water intake ✅]   |
-| No Stupid Content      | [❌]   |
+### 🗓️ July 18
 
+**Coding:** 0h ❌
 
+### 🗓️ July 19
 
+**Coding:** 3-4h ❌
+### 🗓️ July 20
 
-### 🗓️   (july  18) 
-#### 💬 Cooding
-> coding  zero ❌❌ 
+**Coding:** 9h ✅✅
 
+### 🗓️ July 21
 
+**Coding:** 0h ❌ – fixed old projects
 
-### 🗓️   (july  19) 
-#### 💬 Cooding
-> coding 3-4 hours only ❌❌❌❌ 
+### 🗓️ July 22
 
+**Coding:** 0h  ❌  – worst day
 
-
-
-
-
-### 🗓️   (july  20) 
-#### 💬 Cooding
-> cooding 9 hours ✅✅
-
-
-### 🗓️   (july  21) 
-#### 💬 Cooding
-> ❌❌ no ai/ml , fixed my previous projects 
-
-
-
-### 🗓️   (july  22) 
-#### 💬 Cooding
-> ❌❌ zero cooding worst day
-
-
-
-
+---
 
