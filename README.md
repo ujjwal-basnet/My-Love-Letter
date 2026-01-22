@@ -1,74 +1,96 @@
-## Pov : i never study or do any thing productive in saturday  just play games watch anime and sleep or chat with friends so in my personal tracking, I count a week as having 8 
 
-# (8–18 hrs/daily) Challenge serious stuff 
-IDK , i am quite serious this time , i got Pretty  awsome  backlogs form my previous semisters  and also i need to craft my resume , Write a research papers and be job ready within this 6 in Ai Field , so i decided to write my open dailry and log the progress and challenges
+## POV
+I never study or do anything productive on Saturdays — just games, anime, sleep, or chatting with friends.  
+So in my personal tracking, I count a week as **8 days**.
 
-
-
-
-# 🚀 (8–18 hrs/day) Dev Diary — AI Grind 2025
-
-
-week 4: (i fail big in week3 , i swear i will do best in week 4
-
-![week 4 goal](https://raw.githubusercontent.com/ujjwal-basnet/My-Love-Letter/main/images/week4_goal.jpeg)
-
-
-
-
-
-
-
-## 🧠 (Week 3: July 15 – July 22)  
-👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week3.md)
-
-| Plan        | Tasks                                | Status               |
-|--------------|-------------------------------------|----------------------|
-| Book         | complete extra 150 pages | zero book  )         |
-| MLOps        | Finish house price CI/CD, Docker, K8s| zero done |
-| llm  project| build recomdation system using llm|   |  yes i did , but never finish  |
-| llm   project      | complete extra 150 pages |  half done )         |
-
-(worst week  ,  stupid fuck❌❌❌❌)
-
-
-
-
-
-
-## 🧠 (Week 2: July 7 – July 14)  
-👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/week2.md)
-
-| Area         | Tasks                                | Status               |
-|--------------|-------------------------------------|----------------------|
-| Book         | Complete MLOps book chapters         | good  (60 percent of the book content is complete ✅✅✅ )         |
-| MLOps        | Finish house price CI/CD, Docker, K8s| zero (did't even touch) |
-| GenAI Project| Full-stack AI project repository     |  zero (did't even touch) |
-
-># unplaned (obviously every thing does't go to plan so here are someting i build or did which was unplaned for this week )
-
-## Build | https://github.com/ujjwal-basnet/server-location-visualization    ✅✅✅
-
- ## Did two freelance project  ✅✅✅
-
-
-
-## (i know i am only doing, 8 or even less than per day, sometimes i cross 12 or 16 then next day i do like 3-4 hours lol .... but yeah i say its all about habbit , last week was even less than this so , next will i surely gona cross average 12 hours per day session , lets hope for the best   )
-# week ends  here
-
-
-
-📅 June 29 – Dec 31, 2025  
 ---
 
-## 🧠  (Week 1: June 30 – July 7)
-👉 **🔗 [ VIEW MY WEEK 1 LOVE LETTER ](https://github.com/ujjwal-basnet/My-Love-Letter/blob/main/Weekly-Logs/(july)-week-1.md)**
+## (8–18 hrs/day) Challenge — Serious Mode
+IDK, but I’m genuinely serious this time.  
+I have heavy backlogs from previous semesters, need to craft my resume, write research papers, and be job-ready within 6 months in the AI field.  
+So I decided to write an **open diary** and log progress and challenges honestly.
+
+---
+
+## 🚀 (8–18 hrs/day) Dev Diary — AI Grind 2025
+
+Okay, after 6 months I’m back.  
+I did some coding during that time without updating anything.  
+I was mostly focused on uni exams and clearing backlogs.  
+No worries — I’m back to writing. Let’s go.
+
+---
+
+## year 2026
+***********************
+
+- **[January 23–30](jan-20206_week_logs/jan_23-30.md)** — working  
+- **[January 14–21](jan-20206_week_logs/jan_14-21.md)**  completed ✅  
+
+***********************
 
 
-| Area         | Tasks                                  | Status |
-|--------------|-----------------------------------------|--------|
-| Recommender  | Hybrid system + pipeline + FastAPI      | 80% done    |
-| MLOps         | House price CI/CD, Docker, K8s          | failed to complete this     |
-| LLM book  |  “LLMs for Production”  | failed      |
 
-🕒 Daily Goal: 10–18 hours  (3 days ✅, 4 other days faild 10-18 hours❌) this way this week ends
+## year 2025 july month
+---
+
+## 🧠 Week 3: July 15 – July 22
+👉 🔗 [VIEW MY WEEK 3 LOVE LETTER](20025_july_week_logs/week3.md)
+
+| Plan         | Tasks                                              | Status |
+|--------------|----------------------------------------------------|--------|
+| Book         | Complete extra 150 pages                            | Zero   |
+| MLOps        | House price CI/CD, Docker, K8s                     | Zero   |
+| LLM Project  | Build recommendation system using LLM              | Started, not finished |
+| LLM Project  | Complete extra 150 pages                            | Half done |
+
+Worst week. Total failure.
+
+---
+
+## 🧠 Week 2: July 7 – July 14
+👉 🔗 [VIEW MY WEEK 2 LOVE LETTER](20025_july_week_logs/(july)-week-2.md)
+
+| Area          | Tasks                                     | Status |
+|---------------|-------------------------------------------|--------|
+| Book          | Complete MLOps book chapters               | Good (≈60% completed) |
+| MLOps         | House price CI/CD, Docker, K8s             | Zero (didn’t touch) |
+| GenAI Project | Full-stack AI project repository           | Zero (didn’t touch) |
+
+### Unplanned Work
+Things that were not planned but still done:
+
+- Build: https://github.com/ujjwal-basnet/server-location-visualization ✅  
+- Two freelance projects ✅  
+
+---
+
+## Reflection
+I usually do ~8 hours or less per day.  
+Sometimes I cross 12–16 hours, then drop to 3–4 the next day.  
+It’s about habit.  
+Last week was worse than this.  
+Next week I aim to cross an average of **12 hours/day**.
+
+Week ends here.
+
+---
+
+📅 **June 29 – Dec 31, 2025**
+
+---
+
+## 🧠 Week 1: June 30 – July 7
+👉 🔗 [VIEW MY WEEK 1 LOVE LETTER](20025_july_week_logs/week3.md)
+
+| Area        | Tasks                                   | Status |
+|-------------|------------------------------------------|--------|
+| Recommender | Hybrid system + pipeline + FastAPI       | 80% done |
+| MLOps       | House price CI/CD, Docker, K8s            | Failed |
+| LLM Book    | *LLMs for Production*                    | Failed |
+
+Daily goal: **10–18 hours**  
+- 3 days met ✅  
+- 4 days failed ❌  
+
+Week ends here.
