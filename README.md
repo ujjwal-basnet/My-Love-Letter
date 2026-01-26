@@ -4,12 +4,6 @@ I never study or do anything productive on Saturdays — just games, anime, slee
 So in my personal tracking, I count a week as **8 days**.
 
 ---
-
-##  yapping
-IDK, but I’m genuinely serious this time.  
-I have heavy backlogs from previous semesters, need to craft my resume, write research papers, and be job-ready within 6 months in the AI field.  
-So I decided to write an **open diary** and log progress and challenges honestly.
-
 ---
 
 ## 🚀 (6–12 hrs/day)   latest Ai Grind
