@@ -12,8 +12,11 @@ I was infact lockinn for this 6 months but  was too lazy   updating  here lol.
 
 and also i was not at peak hrs because i was mostly focused on uni exams and clearing backlogs.  
 
-but No worries — I’m back to writing. Let’s go.
-
+but No worries , i did finish  some books like 
+- prompt enginearing for llm (oreily) 100%
+- Building apis for data science (oreily) - 100%
+- managing memory (oreily)— I’m back to writing.
+- and some packet publishing books like build ai agent ...
 ---
 
 ## year 2026
