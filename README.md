@@ -24,7 +24,7 @@ but No worries , i did finish  some books like
 
 ***********************
 
-- **[January 23–30](jan-20206_week_logs/jan_23-30.md)** — working  
+- **[January 23–feb 7](jan-20206_week_logs/jan_23-30.md)** — completed ✅  
 - **[January 14–21](jan-20206_week_logs/jan_14-21.md)**  completed ✅  
 
 
