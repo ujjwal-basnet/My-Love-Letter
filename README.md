@@ -26,7 +26,7 @@ but No worries , i did finish  some books like
 
 #### February 2026
 
-👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md) completed ✅  
+👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md) working working  
 
 👉 🔗 [VIEW MY FEB 7-21 WEEK LOG](feb-2026…week_logs/feb7_21.md)  completed ✅  
 
