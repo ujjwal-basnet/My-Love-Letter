@@ -20,25 +20,40 @@ but No worries , i did finish  some books like
 ---
 
 ## year 2026
-#### here  are  my old 6-12 hrs ai grind promises and logs lol
+####  Here  are  my old 6-12 hrs ai grind promises and logs lol
 
 ***********************
 
-#### February 2026
+### March 2026 
 
-👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md) working working  
+
+👉 🔗 [VIEW MY Mar 07-14 WEEK LOG](march-2026_week_logs/mar07_14.md) Working  On this 
+
+
+*********************** 
+
+***********************
+### February 2026
+
+👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md) DID'T COMPLETED DUE TO ELECTION ... 
+
+👉  feb 28 - march 6 :   DID'T COMPLETED anything  DUE TO ELECTION ... 
+
+👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md)  only able to complete some little things only ...  DUE TO ELECTION noise ... 
 
 👉 🔗 [VIEW MY FEB 7-21 WEEK LOG](feb-2026…week_logs/feb7_21.md)  completed ✅  
 
 ---
+***********************
 
-#### January 2026
+### January 2026
 
 - **[January 23–feb 7](jan-20206_week_logs/jan_23-30.md)** — completed ✅  
 - **[January 14–21](jan-20206_week_logs/jan_14-21.md)**  completed ✅  
 
 
-
+***********************
+***********************
 
 ## year 2025  july month 
 ####  below are  my old 8-18 hrs grind promises and logs lol
