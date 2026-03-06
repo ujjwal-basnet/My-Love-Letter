@@ -34,9 +34,6 @@ but No worries , i did finish  some books like
 
 ***********************
 ### February 2026
-
-👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md) DID'T COMPLETED DUE TO ELECTION ... 
-
 👉  feb 28 - march 6 :   DID'T COMPLETED anything  DUE TO ELECTION ... 
 
 👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md)  only able to complete some little things only ...  DUE TO ELECTION noise ... 
