@@ -15,7 +15,9 @@ and also i was not at peak hrs because i was mostly focused on uni exams and cle
 but No worries , i did finish  some books like 
 - prompt enginearing for llm (oreily) 100%
 - Building apis for data science (oreily) - 100%
-- managing memory (oreily)— I’m back to writing.
+- managing memory (oreily)
+- hands on apis for ai and datascience 
+- oreily postgress sql / ai someting named book  
 - and some packet publishing books like build ai agent ...
 ---
 
