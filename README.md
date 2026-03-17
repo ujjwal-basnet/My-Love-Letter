@@ -30,6 +30,7 @@ but No worries , i did finish  some books like
 
 
 👉 🔗 [VIEW MY Mar 07-14 WEEK LOG](march-2026_week_logs/mar07_14.md) Working  On this 
+![completed](march-2026_week_logs/completed_reading_100%25.png)
 
 
 *********************** 
