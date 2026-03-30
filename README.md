@@ -29,8 +29,10 @@ but No worries , i did finish  some books like
 ### March 2026 
 
 
-👉 🔗 [VIEW MY Mar 07-14 WEEK LOG](march-2026_week_logs/mar07_14.md)  completed ✅  
-![completed](march-2026_week_logs/completed_reading_100%25.png)
+👉 🔗 [VIEW MY Mar 07-14 WEEK LOG](march-2026_week_logs/mar07_14.md)     completed ✅  
+
+![completed](march-2026_week_logs/completed_reading_100.png)
+
 
 
 *********************** 
@@ -41,7 +43,15 @@ but No worries , i did finish  some books like
 
 👉 🔗 [VIEW MY FEB 21-28 WEEK LOG](feb-2026…week_logs/feb21_28.md)  only able to complete some little things only ...  DUE TO ELECTION noise ... 
 
+![completed](march-2026_week_logs/3.png)
+
 👉 🔗 [VIEW MY FEB 7-21 WEEK LOG](feb-2026…week_logs/feb7_21.md)  completed ✅  
+
+![completed](march-2026_week_logs/4.png)
+
+
+
+
 
 ---
 ***********************
@@ -49,7 +59,11 @@ but No worries , i did finish  some books like
 ### January 2026
 
 - **[January 23–feb 7](jan-20206_week_logs/jan_23-30.md)** — completed ✅  
+![completed](march-2026_week_logs/5.png)
+
 - **[January 14–21](jan-20206_week_logs/jan_14-21.md)**  completed ✅  
+
+![completed](march-2026_week_logs/6.png)
 
 
 ***********************
