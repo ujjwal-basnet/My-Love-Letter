@@ -26,14 +26,6 @@ but No worries , i did finish  some books like
 
 ***********************
 
-### June 2026
-
-👉 🔗 [VIEW MY Jun 9-15 WEEK GOALS](june-2026_week_logs/jun09_15.md)     planned 🟡
-
-![this week goals](june-2026_week_logs/this_week_goals_jun09_15.png)
-
-***********************
-
 ### March 2026 
 
 
